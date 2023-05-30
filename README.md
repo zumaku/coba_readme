@@ -1,5 +1,5 @@
 <p align="center">
-<img src="zuma_ai_logo.png" alt="ZUMA AI LOGO">
+<img src="zuma.png" alt="ZUMA AI LOGO">
 <h1>ZUMA AI</h1>
 </p>
 <strong>Project Started: </strong><p>Thursday, 25 Mey 2023</p>
